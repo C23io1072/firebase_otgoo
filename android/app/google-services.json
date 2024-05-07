@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "453101208947",
+    "project_id": "fir-otgoo",
+    "storage_bucket": "fir-otgoo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:453101208947:android:5bfb92f9d3d3c9f18f3106",
+        "android_client_info": {
+          "package_name": "com.example.my_firebase_otgoo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEH8LAUXCb1hUTmcm5bX_GOsqMsoJr3JU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
